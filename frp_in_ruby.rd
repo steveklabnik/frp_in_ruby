@@ -28,13 +28,6 @@
   # keep_ratio = true
   # relative_height = 100
 
-= _why
-
-  # image
-  # src = why-the-lucky-stiff.jpg
-  # keep_ratio = true
-  # relative_height = 100
-
 = Irresponsible Ruby
 
 What is #irresponsibleruby?
@@ -49,6 +42,14 @@ Ruby code that you wouldn't deploy at your day job because it's just too interes
 * Weird metaprogramming
 * Unusual techniques
 * No Unit Tests
+
+= Creativity
+
+  # image
+  # src = why-the-lucky-stiff.jpg
+  # keep_ratio = true
+  # relative_height = 100
+
 
 = Creativity
 
@@ -119,13 +120,132 @@ We need both!
 = Shoes Introduction
 
   # image
-  # src = shoes.png 
+  # src = shoes_icon.png
   # keep_ratio = true
   # relative_height = 100
 
-= Frp Introduction
+= Shoes Introduction
+
+* App
+
+= Shoes Introduction
+
+* Button
+
+= Shoes Introduction
+
+* Alert
+
+= Shoes Introduction
+
+* Para
+
+= Shoes Introduction
+
+* edit_line
+
+= Shoes Introduction
+
+* background
+
+= Shoes Introduction
+
+* hide
+
+= Shoes Introduction
+
+* animate
+
+= FRP Introduction
+
+FRP has two parts:
+
+* Functional
+* Reactive
+
+= FRP Introduction
+
+Functional programming: functions as a first-class concept.
+
+= FRP Introduction
+
+Reactive Programming: data flows as a first-class concept.
+
+= FRP Introduction
+
+FRP: using first-class functions to manipulate data flows
+
+= FRP Introduction
+
+Data flows?
+
+= FRP Introduction
+
+  # coderay ruby
+
+  a = 5
+  b = a + 6
+  b # => 11
+  a = 6
+  b # => 11
+
+= FRP Introduction
+
+  # coderay ruby
+
+  a := 5
+  b := a + 6
+  b # => 11
+  a := 6
+  b # => 12
+
+= FRP Introduction
+
+* "time varying value": "behavior" or "signal"
+* "events": occurs many times over time
+* "switching": react to events
+
+= FRP Introduction
+
+  # image
+  # src = phillip.jpeg
+  # keep_ratio = true
+  # relative_height = 100
+
+= FRP Introduction
+
+  # image
+  # src = realtimeconf.png
+  # keep_ratio = true
+  # relative_height = 100
 
 = Frappuccino Introduction
+
+* Streams
+
+= Frappuccino Introduction
+
+* Events
+
+= Frappuccino Introduction
+
+* map
+
+= Frappuccino Introduction
+
+* inject
+
+= Frappuccino + Shoes
+
+* Button sample
+
+= Frappuccino + Shoes
+
+* Circle Example
+
+= Frappuccino
+
+The most irresponsible code I've written lately.
 
 = Go Forth And Be Irresponsible
 
