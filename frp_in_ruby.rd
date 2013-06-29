@@ -7,6 +7,24 @@
 : allotted-time
   45 m   
 
+= Thank you!
+
+  # image
+  # src = jumpstart.png
+  # keep_ratio = true
+  # relative_height = 100
+
+= Thank you!
+
+Thank you so much, Athens.
+
+= Dad
+
+  # image
+  # src = dad.jpg
+  # keep_ratio = true
+  # relative_height = 100
+
 = Frappuccino
 
   # image
