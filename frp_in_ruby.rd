@@ -16,14 +16,10 @@
 
 = Thank you!
 
-Thank you so much, Athens.
-
-= Dad
-
   # image
-  # src = dad.jpg
+  # src = checkin.png
   # keep_ratio = true
-  # relative_height = 100
+  # relative_height = 80
 
 = Frappuccino
 
@@ -141,38 +137,6 @@ We need both!
   # src = shoes_icon.png
   # keep_ratio = true
   # relative_height = 100
-
-= Shoes Introduction
-
-* App
-
-= Shoes Introduction
-
-* Button
-
-= Shoes Introduction
-
-* Alert
-
-= Shoes Introduction
-
-* Para
-
-= Shoes Introduction
-
-* edit_line
-
-= Shoes Introduction
-
-* background
-
-= Shoes Introduction
-
-* hide
-
-= Shoes Introduction
-
-* animate
 
 = FRP Introduction
 
