@@ -5,7 +5,7 @@
 : author
    @steveklabnik
 : allotted-time
-  45 m   
+  30 m   
 
 = Thank you!
 
@@ -13,13 +13,6 @@
   # src = jumpstart.png
   # keep_ratio = true
   # relative_height = 100
-
-= Thank you!
-
-  # image
-  # src = checkin.png
-  # keep_ratio = true
-  # relative_height = 80
 
 = Frappuccino
 
